@@ -20,3 +20,4 @@ while(True):
             
     except sr.RequestError as e:
         print("Anna error; {0}".format(e))
+        
